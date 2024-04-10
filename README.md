@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 - 😈 I'm a noob! But I'm doing my best to catch up with my colleagues~
 - ❤️‍🔥 If you have any advice for a noob, feel free to drop me a message anytime!
 
-START_SECTION:waka
-END_SECTION:waka
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
