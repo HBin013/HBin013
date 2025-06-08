@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - 🌱 I’m currently learning basic techniques of DL & LLMs... (finished)
 -->
-I feel deeply depressed about my current situation.
+Am I ready?
 - 📫 How to reach me: TO BE DONE.
 - ❤️‍🔥 If you have any advice for a noob, feel free to drop me a message anytime!
 
