@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning basic techniques of DL & LLMs... (finished)
 -->
 I feel deeply depressed about my current situation.
-- 📫 How to reach me: hb2002@mail.ustc.edu.cn
+- 📫 How to reach me: TO BE DONE.
 - ❤️‍🔥 If you have any advice for a noob, feel free to drop me a message anytime!
 
 <!--START_SECTION:waka-->
